@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saphr0
 - 👀 I’m interested in books, gaming and nature
-- 🌱 I’m currently learning CS 
+- 🌱 I’m currently learning Lua, C#, Python
 - 💞️ I’m looking to collaborate on anything that is available to learn :3
 
 
